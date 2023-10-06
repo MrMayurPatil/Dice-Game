@@ -1,0 +1,25 @@
+body{
+    background-color: blue;
+}
+
+#container{
+    display: flex;
+    justify-content: center;
+    
+}
+#parent{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+img{
+    height: 400px;
+    width: auto;
+}
+h1{
+    font-size: 90px;
+}
+
+p{
+    font-size: 30px;
+}
